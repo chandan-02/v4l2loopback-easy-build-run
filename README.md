@@ -21,7 +21,7 @@ chmod +x ./runv4l2.sh
 ./runv4l2.sh
 ```
 
-## Create a Virtual Cam
+## Create a OBS Virtual Cam
 
 - Download and install obs 
 
@@ -30,5 +30,5 @@ sudo apt install ffmpeg
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt install obs-studio
 ```
-- Download & install obs-v4l2sink(from release): ![obs-v4l2sink](https://github.com/CatxFish/obs-v4l2sink) 
+- Download & install obs-v4l2sink(from release): [obs-v4l2sink](https://github.com/CatxFish/obs-v4l2sink) 
 - Open OBS > tools > v4l2sink > select your video device > start 
