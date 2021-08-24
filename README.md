@@ -3,7 +3,7 @@
 
 - Clone v4l2loopback : git clone https://github.com/umlaeute/v4l2loopback
 
-- git clone https://github.com/chandan-02/v4l2loopback-easy-build-run.git
+- Clone this Repository : git clone https://github.com/chandan-02/v4l2loopback-easy-build-run.git
 
 - Copy contents of v4l2loopback-easy-build-run to v4l2loopback
 
@@ -30,5 +30,5 @@ sudo apt install ffmpeg
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt install obs-studio
 ```
-- Download & install obs-v4l2sink(from release): [obs-v4l2sink](https://github.com/CatxFish/obs-v4l2sink) 
+- Download & install obs-v4l2sink(from release): [obs-v4l2sink](https://github.com/CatxFish/obs-v4l2sink/releases) 
 - Open OBS > tools > v4l2sink > select your video device > start 
